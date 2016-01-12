@@ -16,12 +16,6 @@ Cada endereço contém os dados:
 * Cidade;
 * Estado.
 
-Tipos de rota
-
-Considere a relação de tipos de rota permitidos:
-
-* Rota padrão mais rápida;
-* Rota evitando o trânsito.
 
 O contrato de <b>saída</b> deste componente deve conter:
 
@@ -41,7 +35,7 @@ Você encontrará <b>detalhes de uso</b> nestes endereços:
 * <a href="http://dev.maplink.com.br/maplinkapi-geocode/" target="_blank">Geocodificação - dev.maplink.com.br/maplinkapi-geocode</a>
 * <a href="http://dev.maplink.com.br/maplinkapi-route/" target="_blank">Roteirização - dev.maplink.com.br/maplinkapi-route</a>
 
-Para consumir os métodos dos serviços SOAP da MapLink é necessário utilizar um applicationCode e uma chave de acesso (token). Você deve utilizar os seguinte: 
+Para consumir os métodos dos serviços da MapLink é necessário utilizar um applicationCode e uma chave de acesso (token). Você deve utilizar os seguinte: 
 
 ApplicationCode: desafiodev
 
