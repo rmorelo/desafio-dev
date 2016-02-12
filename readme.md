@@ -32,8 +32,8 @@ Deve-se utilizar os web services de Geocodificação e de Rotas da MapLink para 
 
 Você encontrará <b>detalhes de uso</b> nestes endereços:
 
-* <a href="http://dev.maplink.com.br/maplinkapi-geocode/" target="_blank">Geocodificação - dev.maplink.com.br/maplinkapi-geocode</a>
-* <a href="http://dev.maplink.com.br/maplinkapi-route/" target="_blank">Roteirização - dev.maplink.com.br/maplinkapi-route</a>
+* <a href="http://dev.maplink.com.br/en/v2/maplinkapi-search/" target="_blank">Geocodificação - dev.maplink.com.br/en/v2/maplinkapi-search</a>
+* <a href="http://dev.maplink.com.br/en/v2/maplinkapi-route/" target="_blank">Roteirização - dev.maplink.com.br/en/v2/maplinkapi-route</a>
 
 Para consumir os métodos dos serviços da MapLink é necessário utilizar um applicationCode e uma chave de acesso (token). Você deve utilizar os seguinte: 
 
